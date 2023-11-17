@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* -------------------------- nav style ------------------- */
+nav{
+    
+    background: #1A187A;
+}
+.nav-container{
+    width: 80%;
+
+    margin: auto;
+}
+
+.st{
+    display: inline;
+     
+}
+.list-style{
+    list-style: none;
+     
+}
+.right-nav{
+    color: white;
+}
+.bg1-img{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+ .bg-slid{
+    padding-top: 90px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    width: 1802px;
+height: 75vh;
+ }
+ .btn-style{
+    border-radius: 6px;
+border: 1px solid var(--main-white, #FFF);
+background: #171495;
+padding: 16px 56px;
+color: white;
+ }
+
+  .slide-box{
+    width: 500px;
+    margin-left: 150px;
+  }
+ .slid-title{
+    font-size: 96px;
+ }
+ .mackbook-air{
+    padding-top:150px;
+    background: #EDEDED;
+     
+ }
+ .bg-ipad{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
+ }
+
+ .brows-bg{
+    border-radius: 15px;
+background: #EDEDED;
+width: 160px;
+height: 128px;
+text-align: center;
+ 
+align-items: center;
+ }
+   
+ .browse-sec{
+    padding-top: 110px;
+    width: 80%;
+    margin: auto;
+ }
+
+
+ /*------------------------------  buy section ---------------------*/
+ .buy-section{
+    width: 80%;
+    margin: auto;
+    padding-top: 150px;
+    
+ }
+ .sp-style{
+    font-size: 18px;
+    margin-left: 5px;
+ }
+   
+ .buy-container{
+        display: flex;
+        gap: 18px;
+        padding-top: 18px;
+ }
+
+
+
+
+ /* --------------------------- buy section ------------------------ */
+ .buy-btn{
+    padding: 12px 64px;
+    border-radius: 8px;
+background: var(--main-black, #000);
+color: white;
+ }
+
+
+
+
+ /* ---------------------- Sale section style ----------------------------- */
+ .sale-container{
+    background: #958AD4;
+    
+ }
+ .sales-box{
+    padding-top: 60px;
+ }
+  
+ .ipad-star-img{
+    margin-left: -20px;
+    width: 400px;
+ }
+ .ipad-img-sec{
+    margin-right: -170px;
+    width: 500px;
+ }
+ footer{
+    
+ }
+ .color-blue{
+     margin-top: 50px;
+    color: #25177B;
+ }
+
+ .footer-box{
+      padding-top: 50px;
+       width: 80%;
+       padding: 80px;
+       margin: auto;
+ }
+ .footer-container{
+    background: #0E071B;
+ }
